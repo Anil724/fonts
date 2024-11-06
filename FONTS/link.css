@@ -1,0 +1,126 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 3rem;
+   
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+}
+#miparah{
+    font-size: 1rem;
+    font-family: fantasy;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+#miparah2{
+    font-family: "Inconsolata", monospace;
+    font-style: italic;
+}
+@font-face {
+    font-family: hindi;
+    src: url("./fonts/DevLys\ 010\ Normal.ttf") ;
+}
+#miparah3{
+    font-family: hindi;
+}
+
+#cskparah{
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Karla+Tamil+Inclined:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+#cskparah2{
+    font-family: "Karla Tamil Inclined", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: tamil;
+    src: url("./fonts/Alankaram\ Plain.otf");
+}
+#cskparah3{
+    font-family: tamil;
+    /* font-size: 1.5rem; */
+}
+#srhparah{
+    font-size: 1rem;
+    font-family: cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300;400;700;800&display=swap');
+#srhparah2{
+    font-family: "Chathura", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+   
+}
+@font-face {
+    font-family: telugu;
+    src: url("./fonts/Nandakam\ Regular.otf");
+}
+#srhparah3{
+    font-family: telugu;
+}
+#rcbparah{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+#rcbparah2{
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: kannada;
+    src: url("./fonts/Kai\ Baraha\ Regular.ttf");
+}
+#rcbparah3{
+    font-family: kannada;
+}
+/* #mumbaiDiv{
+   overflow: auto;
+    border: 10px solid yellow;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    
+    
+}
+#cskDiv{
+    overflow: auto;
+
+    border: 10px solid yellow;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+   
+}
+#rcbDiv{
+    overflow: auto;
+
+    border: 10px solid yellow;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+}
+#srhDiv{
+    overflow: auto;
+   
+    border: 10px solid yellow;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+} */
